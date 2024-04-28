@@ -1,4 +1,4 @@
-Check out the <link href="https://github.com/jlevy/the-art-of-command-line">original</link>, I can't guarantee I wont mess with the files as a learning resource
+Check out the [original](https://github.com/jlevy/the-art-of-command-line), I can't guarantee I won't mess with this fork as a learning resource or convenience.
 
 # The Art of Command Line
 
